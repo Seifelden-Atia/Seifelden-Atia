@@ -2,7 +2,6 @@
 
 Hello! I'm <b>Seifelden Atia</b>, a passionate developer specializing in Applied Computer Science from the University Duisburg-Essen, with a foundational background in Civil Engineering from Alexandria University, Egypt.
 
-![Seifelden Atia](https://github.com/user-attachments/assets/010ca5aa-4640-4146-9f82-9a631169daba)
 
 ## 🚀 About Me!
 
